@@ -21,9 +21,9 @@ Traditional performance evaluation of material property prediction models throug
 ## Algorithms
 We chose the following **graph neural network (GNN)** algorithms for our benchmark study. Source codes of the algorithms are also provided. To get more detailed implementations of the algorithms (including processing of the test cluster for each fold) for this benchmark study, the readers are requested to email the corresponding author at jianjunh@cse.sc.edu
 1. [CGCNN](https://github.com/txie-93/cgcnn)
-2. [MEGNet](https://github.com/materialsproject/matbench/tree/main/benchmarks/matbench_v0.1_MegNet_kgcnn_v2.1.0)
-3. [SchNet](https://github.com/materialsproject/matbench/tree/main/benchmarks/matbench_v0.1_SchNet_kgcnn_v2.1.0)
-4. [DimeNet++](https://github.com/materialsproject/matbench/tree/main/benchmarks/matbench_v0.1_DimeNetPP_kgcnn_v2.1.0)
+2. [MEGNet](https://github.com/materialsvirtuallab/megnet)
+3. [SchNet](https://github.com/atomistic-machine-learning/SchNet)
+4. [DimeNet++](https://github.com/gasteigerjo/dimenet)
 5. [ALIGNN](https://github.com/usnistgov/alignn)
 6. [DeeperGATGNN](https://github.com/usccolumbia/deeperGATGNN)
 7. [coGN](https://github.com/materialsproject/matbench/tree/main/benchmarks/matbench_v0.1_coGN)
