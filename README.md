@@ -17,7 +17,7 @@ Traditional performance evaluation of material property prediction models throug
 * [Target generation](#targets)
 * [Contributors](#contributors)
 
-![](framework.pdf)
+![](framework.png)
 
 <a name="algorithms"></a>
 ## Algorithms
