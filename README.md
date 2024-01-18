@@ -1,5 +1,5 @@
 # OOD_Materials_Benchmark
-Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study"**
+Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study"** \[[arxiv](https://arxiv.org/pdf/2401.08032.pdf)\]
 
 Authors: Sadman Sadeed Omee, Nihang Fu, Ming Hu, and Jianjun Hu.
 
@@ -16,6 +16,8 @@ Traditional performance evaluation of material property prediction models throug
 * [Dataset](#dataset)
 * [Target generation](#targets)
 * [Contributors](#contributors)
+
+![](framework.pdf)
 
 <a name="algorithms"></a>
 ## Algorithms
