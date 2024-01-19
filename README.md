@@ -11,13 +11,13 @@ SC, 29201, United States.
 
 Traditional performance evaluation of material property prediction models through random splitting of the dataset frequently results in **artificially high performance assessments** due to inherent redundancy of typical material datasets. In real-world scenarios, machine learning (ML) models are usually employed to predict properties of novel exceptional materials that deviate from the training set distribution. It is thus a pressing question to provide an objective evaluation of ML models for **property prediction of out-of-distribution (OOD) samples**. Here we present a comprehensive **benchmark** study of structure-based graph neural networks (GNNs) for OOD materials property prediction. We formulate five different categories (LOCO, SparseXcluster, SparseYcluster, SparseXsingle, and SparseYsingle) of **OOD problems** for three benchmark datasets from the [MatBench](https://matbench.materialsproject.org/) study, and perform extensive experiments.
 
+![](framework.png)
+
 # Table of Contents
 * [Algorithms](#algorithms)
 * [Dataset](#dataset)
 * [Target generation](#targets)
 * [Contributors](#contributors)
-
-![](framework.png)
 
 <a name="algorithms"></a>
 ## Algorithms
