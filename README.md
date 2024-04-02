@@ -48,6 +48,7 @@ Train-val-test data for each fold for each dataset can be found in **folds.zip**
 folds/{dielectric,elasticity,perovskites}_folds/{train,val,test}/OFM_dielectric_{LOCO,SparseXcluster,SparseYcluster,SparseXsingle,SparseYsingle}_target_clusters50_{train,val,test}.json
 ```
 
+These json files contain the ids of the materials to be used in each of the 50 folds, for each of the target generation method, and for each of the dataset. To take a look at how the five different target generation methods were created, unzip target_generation.zip file.
 
 <a name="contributors"></a>
 ## Contributors
