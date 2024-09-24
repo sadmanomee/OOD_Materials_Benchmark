@@ -1,5 +1,5 @@
 # OOD_Materials_Benchmark
-Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study"** \[[arxiv](https://arxiv.org/pdf/2401.08032.pdf)\]
+Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study, npj Computational Materials (2024)"** \[[Paper](https://www.nature.com/articles/s41524-024-01316-4)\]
 
 Authors: Sadman Sadeed Omee, Nihang Fu, Ming Hu, and Jianjun Hu.
 
