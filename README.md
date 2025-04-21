@@ -1,7 +1,9 @@
 # OOD_Materials_Benchmark
 Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study, npj Computational Materials (2024)"** \[[Paper](https://www.nature.com/articles/s41524-024-01316-4)\]
 
-Authors: Sadman Sadeed Omee, Nihang Fu, Ming Hu, and Jianjun Hu.
+**Published in:** <em>npj Computational Materials</em>
+
+**Authors:** Sadman Sadeed Omee, Nihang Fu, Ming Hu, and Jianjun Hu.
 
 
 [Machine Learning and Evolution Laboratory,](http://mleg.cse.sc.edu)<br />
@@ -18,6 +20,7 @@ Traditional performance evaluation of material property prediction models throug
 * [Dataset](#dataset)
 * [Target generation](#targets)
 * [Contributors](#contributors)
+* [How to Cite](#citation)
 
 <a name="algorithms"></a>
 ## Algorithms
@@ -55,3 +58,16 @@ These json files contain the ids of the materials to be used in each of the 50 f
 
 1. Sadman Sadeed Omee (<https://www.sadmanomee.com/>)
 2. Dr. Jianjun Hu (<http://www.cse.sc.edu/~jianjunh/>)
+
+<a name="citation"></a>
+## How to Cite
+@article{omee2024structure,
+  title={Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study},
+  author={Omee, Sadman Sadeed and Fu, Nihang and Dong, Rongzhi and Hu, Ming and Hu, Jianjun},
+  journal={npj Computational Materials},
+  volume={10},
+  number={1},
+  pages={144},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
