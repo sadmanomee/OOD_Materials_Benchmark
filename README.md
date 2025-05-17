@@ -1,8 +1,8 @@
 # OOD_Materials_Benchmark
-Github repository for our manuscript - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study, npj Computational Materials (2024)"** \[[Paper](https://www.nature.com/articles/s41524-024-01316-4)\]
+Github repository for our paper - **"Structure-based out-of-distribution (OOD) material property prediction: a benchmark study"** \[[Paper](https://www.nature.com/articles/s41524-024-01316-4)\].
 
-**Published in:** <em>npj Computational Materials</em>
-
+**Journal:** <em>npj Computational Materials</em> <br/>
+**Year:** 2024 <br/>
 **Authors:** Sadman Sadeed Omee, Nihang Fu, Ming Hu, and Jianjun Hu.
 
 
@@ -61,13 +61,13 @@ These json files contain the ids of the materials to be used in each of the 50 f
 
 <a name="citation"></a>
 ## How to Cite
-@article{omee2024structure,
-  title={Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study},
-  author={Omee, Sadman Sadeed and Fu, Nihang and Dong, Rongzhi and Hu, Ming and Hu, Jianjun},
-  journal={npj Computational Materials},
-  volume={10},
-  number={1},
-  pages={144},
-  year={2024},
-  publisher={Nature Publishing Group UK London}
+@article{omee2024structure,<br />
+  &emsp;title={Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study},<br />
+  &emsp;author={Omee, Sadman Sadeed and Fu, Nihang and Dong, Rongzhi and Hu, Ming and Hu, Jianjun},<br />
+  &emsp;journal={npj Computational Materials},<br />
+  &emsp;volume={10},<br />
+  &emsp;number={1},<br />
+  &emsp;pages={144},<br />
+  &emsp;year={2024},<br />
+  &emsp;publisher={Nature Publishing Group UK London}<br />
 }
